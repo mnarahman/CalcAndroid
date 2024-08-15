@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MIT033calculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#FF9800</item>
+       <item name="colorPrimaryVariant">#FFC107</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!--  <item name="colorPrimary">@color/my_light_primary</item>-->
+<!--secondary color-->
+        <item name="colorSecondary">#014112</item>
+        <item name="colorSecondaryVariant">#EDE0C8</item>
+        <item name="colorOnSecondary">@color/black</item>
+<!--status bar color-->
+
+
+    </style>
+
+      <style name="Theme.MIT033calculator" parent="Base.Theme.MIT033calculator" />
+  </resources>
